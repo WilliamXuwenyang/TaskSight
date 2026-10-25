@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TaskSight/TaskSight.vcxproj" Id="87ba93c2-95c1-43a8-be46-1c96d0602906" />
+</Solution>
